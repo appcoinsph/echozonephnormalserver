@@ -18,7 +18,7 @@ $(document).on("click", "#resetAll", function() {
 
 //Set Game Variables
 var NumPlots = 0; //a reset for the number of plots a user has
-var Money = 140; //the amount of money to start
+var Money = 150; //the amount of money to start
 var PlotCost = 100; //Cost of a Plot of land
 
 var SeedCostT1 = 40; //Cost of seeds to plant
