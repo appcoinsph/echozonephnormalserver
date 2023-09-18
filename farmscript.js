@@ -622,3 +622,7 @@ playlist.addEventListener('click', ()=> {
   playlist.classList.toggle('active')
 })
 
+const shibaconvert = document.querySelector('.shibaconvert');
+shibaconvert.addEventListener('click', ()=> {
+  shibaconvert.classList.toggle('active')
+})
